@@ -7,12 +7,12 @@
     <v-container fluid>
       <v-row>
         <v-col cols="6">
-          <v-card>
+          <v-card color="#E1D9D1">
             <v-img src="1.png" contain max-height="500"></v-img>
           </v-card>
         </v-col>
         <v-col cols="6">
-          <h5 class="red--text text--darken-4 top">Hello, This is Nahid</h5>
+          <h4 class="red--text text--darken-4 top">Hello, This is Nahid</h4>
           <h1 class="grey--text">Web Developer</h1>
           <h3 class="white--text">
             Hi, I am a graduate of Computer Science and Engineering program at
@@ -295,9 +295,6 @@ export default {
 };
 </script>
 <style scoped>
-.rounded-card {
-  border-radius: 70%;
-}
 .top {
   margin-top: 180px;
 }
@@ -311,26 +308,17 @@ export default {
 .first {
   width: 100%;
   height: 610px;
-  background: linear-gradient(
-    to right,
-    #181818,
-    #181818 50%,
-    #111111 50%,
-    #111111 50%
-  );
   text-align: center;
   padding: 2rem 2rem;
 }
 .second {
   width: 100%;
   height: 400px;
-  background: #181818;
   text-align: center;
   padding: 2rem 2rem;
 }
 .secondchild1 {
   display: inline-block;
-  background-color: #1e1e1e;
   padding: 2rem 1rem;
   vertical-align: middle;
   text-align: left;
@@ -342,25 +330,6 @@ export default {
   vertical-align: middle;
   text-align: left;
   margin-right: 8px;
-}
-.bgColor1 {
-  background-color: #1e1e1e;
-}
-.bgColor2 {
-  background-color: #ce1d2a;
-}
-
-.child1 {
-  display: inline-block;
-  padding: 2rem 1rem;
-  vertical-align: middle;
-  margin-right: 5px;
-  width: 240px;
-}
-.child2 {
-  display: inline-block;
-  width: 245px;
-  vertical-align: middle;
 }
 .mRight {
   margin-right: 8px;

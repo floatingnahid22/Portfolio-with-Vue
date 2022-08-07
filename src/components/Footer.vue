@@ -50,7 +50,8 @@
         <v-col cols="12" sm="4">
           <v-card-text class="pt-2 mx-1 white--text">
             <v-icon color="#A7121D">mdi-copyright</v-icon>
-            Created by Nahid
+            Created by Nahid <br />
+            <p>Email: nahidhossain1184@gmail.com</p>
           </v-card-text>
         </v-col>
       </v-row>
