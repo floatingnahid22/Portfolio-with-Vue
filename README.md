@@ -2,4 +2,4 @@
 
 <p>Here, I built a Portfolio  using Vue JS and Vuetify </p>
 
-[![portfolio.png](https://i.postimg.cc/5tSMf8sc/portfolio.png)](https://portfolio-nahid22.netlify.app/)
+[![portfolio.png](https://i.postimg.cc/5tSMf8sc/portfolio.png)](https://portfolio-nahid22.netlify.app/){:target="\_blank" rel="noopener"}
